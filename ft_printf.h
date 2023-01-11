@@ -15,8 +15,6 @@
 
 # include <stdarg.h>
 # include <unistd.h>
-# include <stddef.h>
-# include "stdio.h"
 
 int	ft_printf(const char *str, ...);
 int	print_machine(char c);
